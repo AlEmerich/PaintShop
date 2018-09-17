@@ -1,10 +1,6 @@
 paintshop
 =========
 
-.. image:: https://img.shields.io/pypi/v/paintshop.svg
-    :target: https://pypi.python.org/pypi/paintshop
-    :alt: Latest PyPI version
-
 .. image:: https://travis-ci.org/AlEmerich/PaintShop.png
    :target: https://travis-ci.org/AlEmerich/PaintShop
    :alt: Latest Travis CI build status
