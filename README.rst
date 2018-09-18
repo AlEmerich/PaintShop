@@ -10,19 +10,19 @@ Find the best set of color to please every customers.
 Usage
 -----
 
-  usage: process.py [-h] path
+    usage: process.py [-h] path
 
-  Package to answer to retreive set of colors to please every customers.
+    Package to answer to retreive set of colors to please every customers.
 
-  positional arguments:
-    path        Path of the file process.
+    positional arguments:
+      path        Path of the file process.
 
-  optional arguments:
-    -h, --help  show this help message and exit
+    optional arguments:
+      -h, --help  show this help message and exit
 
 Launch test with tox.
 
-  pip install tox && tox
+    pip install tox && tox
 
 Installation
 ------------
