@@ -10,7 +10,7 @@ Find the best set of color to please every customers.
 Usage
 -----
 
-    ``usage: process.py [-h] path
+    usage: process.py [-h] path
 
     Package to answer to retreive set of colors to please every customers.
 
@@ -18,7 +18,7 @@ Usage
       path        Path of the file process.
 
     optional arguments:
-      -h, --help  show this help message and exit``
+      -h, --help  show this help message and exit
 
 Launch test with tox.
 
