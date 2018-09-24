@@ -1,6 +1,6 @@
 """Package to answer to retrive set of colors to please every customers.
 """
-import numpy as np
+
 
 def is_satisfied(colorset, pref):
     """Return a tuple (boolean, num_color) if the customer's
@@ -50,3 +50,4 @@ def get_optimal_set(path):
                     return "No solution exists"
 
     return result
+
