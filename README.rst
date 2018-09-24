@@ -10,7 +10,7 @@ Find the best set of color to please every customers.
 Usage
 -----
 
-    usage: process.py [-h] path
+    usage: main.py [-h] path
 
     Package to answer to retreive set of colors to please every customers.
 
